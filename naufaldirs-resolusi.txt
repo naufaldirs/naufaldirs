@@ -1,3 +1,4 @@
 naufaldirs resolusi
 - Konsisten dalam belajar pemograman
 - membuat project
+- dapat uang dari project
